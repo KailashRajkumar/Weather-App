@@ -10,3 +10,6 @@ Real-time Weather Data: The app fetches weather data from the OpenWeatherMap API
 Dynamic Background Images: The app displays background images that correspond to the weather condition of the searched city, adding visual appeal and context to the weather information.
 
 Temperature Conversion: The app calculates and displays temperature values in Celsius, providing the current temperature, as well as minimum and maximum temperatures.
+
+# Skill-Used
+React Js, Bootstrap
